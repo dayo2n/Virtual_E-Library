@@ -1,0 +1,17 @@
+
+/* 
+.row{
+    right: 10px;
+} */
+
+.isRented{
+    color: rgb(209, 49, 0);
+}
+
+.enableRent{
+    color: rgb(0, 133, 185);
+}
+
+.searchInput{
+    right: 10px;
+}
