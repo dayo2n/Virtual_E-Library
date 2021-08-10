@@ -12,70 +12,70 @@
 
 ## 📷 Design (UI 설계서)
 [ 프로세스 정의서 ]
-<img src="readmeImage/design/ProcessDefinition.png" width="40%">
+<br><img src="readmeImage/design/ProcessDefinition.png" width="40%">
 
 [ 사이트 맵 ]
-<img src="./readmeImage/design/SiteMap.png" width="40%">
+<br><img src="./readmeImage/design/SiteMap.png" width="40%">
 
 [ 시스템 구조 ]
-<img src="./readmeImage/design/SystemStructure.png" width="40%">
+<br><img src="./readmeImage/design/SystemStructure.png" width="40%">
 
 [ UI 설계서(01) :: 로그인, 메인 ]
-<img src="./readmeImage/design/UIdesign01.png" width="40%">
+<br><img src="./readmeImage/design/UIdesign01.png" width="40%">
 
 [ UI 설계서(02) :: 도서검색, 대출기록 조회 ]
-<img src="./readmeImage/design/UIdesign02.png" width="40%">
+<br><img src="./readmeImage/design/UIdesign02.png" width="40%">
 
 [ UI 설계서(03) :: 예약 관리, 정보 수정 ]
-<img src="./readmeImage/design/UIdesign03.png" width="40%">
+<br><img src="./readmeImage/design/UIdesign03.png" width="40%">
 
 
 ## 📸 ScreenShot
 ### 👥 User
 
 로그인 화면
-<img src="/readmeImage/ScreenShot/user01_login.png" width="40%">
+<br><img src="/readmeImage/ScreenShot/user01_login.png" width="40%">
 
 메인 / 도서목록
-<img src="./readmeImage/ScreenShot/user02_main.png" width="40%">
+<br><img src="./readmeImage/ScreenShot/user02_main.png" width="40%">
 
 도서 검색
-<img src="./readmeImage/ScreenShot/user03_search.png" width="40%">
+<br><img src="./readmeImage/ScreenShot/user03_search.png" width="40%">
 
 대출 기록
-<img src="./readmeImage/ScreenShot/user04_rent.png" width="40%">
+<br><img src="./readmeImage/ScreenShot/user04_rent.png" width="40%">
 
 예약 기록
-<img src="./readmeImage/ScreenShot/user05_reserve.png" width="40%">
+<br><img src="./readmeImage/ScreenShot/user05_reserve.png" width="40%">
 
 회원 정보 수정
-<img src="./readmeImage/ScreenShot/user06_info.png" width="40%">
+<br><img src="./readmeImage/ScreenShot/user06_info.png" width="40%">
 
 
 ### 🔑 Admin
 
 관리자 카테고리
-<img src="./readmeImage/ScreenShot/admin01_category.png" width="40%">
+<br><img src="./readmeImage/ScreenShot/admin01_category.png" width="40%">
 
 메인 / 도서 상태
-<img src="./readmeImage/ScreenShot/admin03_ebook.png" width="40%">
+<br><img src="./readmeImage/ScreenShot/admin03_ebook.png" width="40%">
 
 도서에 대한 통계
-<img src="./readmeImage/ScreenShot/admin02_main.png" width="40%">
+<br><img src="./readmeImage/ScreenShot/admin02_main.png" width="40%">
 
-도서 검색
+도서 검색<br>
 <img src="./readmeImage/ScreenShot/admin04_search.png" width="40%">
 
-대출 현황 및 기록
+대출 현황 및 기록<br>
 <img src="./readmeImage/ScreenShot/admin05_rent.png" width="40%">
 
-독서왕 랭킹
+독서왕 랭킹<br>
 <img src="./readmeImage/ScreenShot/admin06_rank.png" width="40%">
 
-예약 현황
+예약 현황<br>
 <img src="./readmeImage/ScreenShot/admin07_reserve.png" width="40%">
 
-회원 목록
+회원 목록<br>
 <img src="./readmeImage/ScreenShot/admin08_user.png" width="40%">
 
 
