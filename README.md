@@ -20,22 +20,22 @@
 
 ## 📸 ScreenShot
 ### User
-![](./readmeImg/ScreenShot/user01_login.png "로그인 화면")
-![](./readmeImg/ScreenShot/user02_main.png "메인 / 도서목록")
-![](./readmeImg/ScreenShot/user03_search.png "도서 검색")
-![](./readmeImg/ScreenShot/user04_rent.png "대출 기록")
-![](./readmeImg/ScreenShot/user05_reserve.png "예약 기록")
-![](./readmeImg/ScreenShot/user06_info.png "회원 정보 수정")
+![](./readmeImage/ScreenShot/user01_login.png "로그인 화면")
+![](./readmeImage/ScreenShot/user02_main.png "메인 / 도서목록")
+![](./readmreadmeImageeImg/ScreenShot/user03_search.png "도서 검색")
+![](./readmeImage/ScreenShot/user04_rent.png "대출 기록")
+![](./readmeImage/ScreenShot/user05_reserve.png "예약 기록")
+![](./readmeImage/ScreenShot/user06_info.png "회원 정보 수정")
 
 ### Admin
-![](./readmeImg/ScreenShot/admin01_category.png "관리자 카테고리")
-![](./readmeImg/ScreenShot/admin03_ebook.png "메인 / 도서 상태")
-![](./readmeImg/ScreenShot/admin02_main.png "도서에 대한 통계")
-![](./readmeImg/ScreenShot/admin04_search.png "도서 검색")
-![](./readmeImg/ScreenShot/admin05_rent.png "대출 현황 및 기록")
-![](./readmeImg/ScreenShot/admin06_rank.png "독서왕 랭킹")
-![](./readmeImg/ScreenShot/admin07_reserve.png "예약 현황")
-![](./readmeImg/ScreenShot/admin08_user.png "회원 목록")
+![](./readmeImage/ScreenShot/admin01_category.png "관리자 카테고리")
+![](./readmeImage/ScreenShot/admin03_ebook.png "메인 / 도서 상태")
+![](./readmeImage/ScreenShot/admin02_main.png "도서에 대한 통계")
+![](./readmeImage/ScreenShot/admin04_search.png "도서 검색")
+![](./readmeImage/ScreenShot/admin05_rent.png "대출 현황 및 기록")
+![](./readmeImage/ScreenShot/admin06_rank.png "독서왕 랭킹")
+![](./readmeImage/ScreenShot/admin07_reserve.png "예약 현황")
+![](./readmeImage/ScreenShot/admin08_user.png "회원 목록")
 
 ## 📌 Memo
 - 예약 대기자에 예약 가능 메일 발송부분 구현 X
