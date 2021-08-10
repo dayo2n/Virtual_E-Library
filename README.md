@@ -12,6 +12,7 @@
 
 ## 📷 Design (UI 설계서)
 <img src="readmeImage/design/ProcessDefinition.png", width="40%">
+
 [ 프로세스 정의서 ]
 ![](./readmeImage/design/SiteMap.png){: width="40%" height="40%"}
 [ 사이트 맵 ]
