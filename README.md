@@ -11,31 +11,51 @@
 - IDE VSCode
 
 ## 📷 Design (UI 설계서)
-![[ 프로세스 정의서 ]](./readmeImage/design/ProcessDefinition.png "[ 프로세스 정의서 ]")
-![[ 사이트 맵 ]](./readmeImage/design/SiteMap.png "[ 사이트 맵 ]")
-![[ 시스템 구조 ]](./readmeImage/design/SystemStructure.png "[ 시스템 구조 ]")
-![[ UI 설계서(01) :: 로그인, 메인 ]](./readmeImage/design/UIdesign01.png "[ UI 설계서(01) :: 로그인, 메인 ]")
-![[ UI 설계서(02) :: 도서검색, 대출기록 조회 ]](./readmeImage/design/UIdesign02.png "[ UI 설계서(02) :: 도서검색, 대출기록 조회 ]")
-![[ UI 설계서(03) :: 예약 관리, 정보 수정 ]](./readmeImage/design/UIdesign03.png "[ UI 설계서(03) :: 예약 관리, 정보 수정 ]")
+![](./readmeImage/design/ProcessDefinition.png){: width="40%" height="40%"}
+[ 프로세스 정의서 ]
+![](./readmeImage/design/SiteMap.png){: width="40%" height="40%"}
+[ 사이트 맵 ]
+![](./readmeImage/design/SystemStructure.png){: width="40%" height="40%"}
+[ 시스템 구조 ]
+![](./readmeImage/design/UIdesign01.png){: width="40%" height="40%"}
+[ UI 설계서(01) :: 로그인, 메인 ]
+![](./readmeImage/design/UIdesign02.png){: width="40%" height="40%"}
+[ UI 설계서(02) :: 도서검색, 대출기록 조회 ]
+![](./readmeImage/design/UIdesign03.png){: width="40%" height="40%"}
+[ UI 설계서(03) :: 예약 관리, 정보 수정 ]
 
 ## 📸 ScreenShot
 ### 👥 User
-![로그인 화면](./readmeImage/ScreenShot/user01_login.png "로그인 화면")
-![메인 / 도서목록](./readmeImage/ScreenShot/user02_main.png "메인 / 도서목록")
-![도서 검색](./readmreadmeImageeImg/ScreenShot/user03_search.png "도서 검색")
-![대출 기록](./readmeImage/ScreenShot/user04_rent.png "대출 기록")
-![예약 기록](./readmeImage/ScreenShot/user05_reserve.png "예약 기록")
-![회원 정보 수정](./readmeImage/ScreenShot/user06_info.png "회원 정보 수정")
+![](./readmeImage/ScreenShot/user01_login.png){: width="40%" height="40%"}
+로그인 화면
+![](./readmeImage/ScreenShot/user02_main.png){: width="40%" height="40%"}
+메인 / 도서목록
+![](./readmreadmeImageeImg/ScreenShot/user03_search.png){: width="40%" height="40%"}
+도서 검색
+![](./readmeImage/ScreenShot/user04_rent.png){: width="40%" height="40%"}
+대출 기록
+![](./readmeImage/ScreenShot/user05_reserve.png){: width="40%" height="40%"}
+예약 기록
+![](./readmeImage/ScreenShot/user06_info.png){: width="40%" height="40%"}
+ 회원 정보 수정
 
 ### 🔑 Admin
-![관리자 카테고리](./readmeImage/ScreenShot/admin01_category.png "관리자 카테고리")
-![메인 / 도서 상태](./readmeImage/ScreenShot/admin03_ebook.png "메인 / 도서 상태")
-![도서에 대한 통계](./readmeImage/ScreenShot/admin02_main.png "도서에 대한 통계")
-![도서 검색](./readmeImage/ScreenShot/admin04_search.png "도서 검색")
-![대출 현황 및 기록](./readmeImage/ScreenShot/admin05_rent.png "대출 현황 및 기록")
-![독서왕 랭킹](./readmeImage/ScreenShot/admin06_rank.png "독서왕 랭킹")
-![예약 현황](./readmeImage/ScreenShot/admin07_reserve.png "예약 현황")
-![회원 목록](./readmeImage/ScreenShot/admin08_user.png "회원 목록")
+![](./readmeImage/ScreenShot/admin01_category.png){: width="40%" height="40%"}
+관리자 카테고리
+![](./readmeImage/ScreenShot/admin03_ebook.png){: width="40%" height="40%"}
+메인 / 도서 상태
+![](./readmeImage/ScreenShot/admin02_main.png){: width="40%" height="40%"}
+도서에 대한 통계
+![](./readmeImage/ScreenShot/admin04_search.png){: width="40%" height="40%"}
+도서 검색
+![](./readmeImage/ScreenShot/admin05_rent.png){: width="40%" height="40%"}
+대출 현황 및 기록
+![](./readmeImage/ScreenShot/admin06_rank.png){: width="40%" height="40%"}
+독서왕 랭킹
+![](./readmeImage/ScreenShot/admin07_reserve.png){: width="40%" height="40%"}
+예약 현황
+![](./readmeImage/ScreenShot/admin08_user.png){: width="40%" height="40%"}
+회원 목록
 
 ## 📌 Memo
 - 예약 대기자에 예약 가능 메일 발송부분 구현 X
