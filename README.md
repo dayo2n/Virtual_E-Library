@@ -34,49 +34,49 @@
 ### 👥 User
 
 로그인 화면
-<br><img src="/readmeImage/ScreenShot/user01_login.png" width="40%">
+<br><img src="/readmeImage/ScreenShot/user01_login.png" width="60%">
 
 메인 / 도서목록
-<br><img src="./readmeImage/ScreenShot/user02_main.png" width="40%">
+<br><img src="./readmeImage/ScreenShot/user02_main.png" width="60%">
 
 도서 검색
-<br><img src="./readmeImage/ScreenShot/user03_search.png" width="40%">
+<br><img src="./readmeImage/ScreenShot/user03_search.png" width="60%">
 
 대출 기록
-<br><img src="./readmeImage/ScreenShot/user04_rent.png" width="40%">
+<br><img src="./readmeImage/ScreenShot/user04_rent.png" width="60%">
 
 예약 기록
-<br><img src="./readmeImage/ScreenShot/user05_reserve.png" width="40%">
+<br><img src="./readmeImage/ScreenShot/user05_reserve.png" width="60%">
 
 회원 정보 수정
-<br><img src="./readmeImage/ScreenShot/user06_info.png" width="40%">
+<br><img src="./readmeImage/ScreenShot/user06_info.png" width="60%">
 
 
 ### 🔑 Admin
 
 관리자 카테고리
-<br><img src="./readmeImage/ScreenShot/admin01_category.png" width="40%">
+<br><img src="./readmeImage/ScreenShot/admin01_category.png" width="60%">
 
 메인 / 도서 상태
-<br><img src="./readmeImage/ScreenShot/admin03_ebook.png" width="40%">
+<br><img src="./readmeImage/ScreenShot/admin03_ebook.png" width="60%">
 
 도서에 대한 통계
-<br><img src="./readmeImage/ScreenShot/admin02_main.png" width="40%">
+<br><img src="./readmeImage/ScreenShot/admin02_main.png" width="60%">
 
 도서 검색<br>
-<img src="./readmeImage/ScreenShot/admin04_search.png" width="40%">
+<img src="./readmeImage/ScreenShot/admin04_search.png" width="60%">
 
 대출 현황 및 기록<br>
-<img src="./readmeImage/ScreenShot/admin05_rent.png" width="40%">
+<img src="./readmeImage/ScreenShot/admin05_rent.png" width="60%">
 
 독서왕 랭킹<br>
-<img src="./readmeImage/ScreenShot/admin06_rank.png" width="40%">
+<img src="./readmeImage/ScreenShot/admin06_rank.png" width="60%">
 
 예약 현황<br>
-<img src="./readmeImage/ScreenShot/admin07_reserve.png" width="40%">
+<img src="./readmeImage/ScreenShot/admin07_reserve.png" width="60%">
 
 회원 목록<br>
-<img src="./readmeImage/ScreenShot/admin08_user.png" width="40%">
+<img src="./readmeImage/ScreenShot/admin08_user.png" width="60%">
 
 
 ## 📌 Memo
